@@ -20,6 +20,7 @@
 
 * git branch - посмотреть список веток в репозитории
 * git branch branch_name - создать новую ветку
+* git checkout branch_name - переход к другой ветке
 
 # Работа с  Markdown
 
