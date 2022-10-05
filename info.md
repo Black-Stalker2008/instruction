@@ -22,6 +22,7 @@
 * git branch branch_name - создать новую ветку
 * git checkout branch_name - переход к другой ветке
 * git merge branch_name - слить указанную ветку с веткой в которой находишься
+* git branch -d branch_name - удалить ветку
 
 # Работа с  Markdown
 
